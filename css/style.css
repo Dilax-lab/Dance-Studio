@@ -137,6 +137,12 @@ img {
   max-width: 100%;
   height: auto;
 }
+.container {
+  width: 90%;
+  max-width: 1140px;
+  margin: auto;
+}
+
 
 /*** Navbar ***/
 .navbar-light .navbar-nav .nav-link {
